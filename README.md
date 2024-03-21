@@ -61,8 +61,7 @@ sudo apt update && sudo apt install texlive-full git -y
 Git が使用できる場合には以下のコマンドで，このリポジトリをクローンして開ける．
 
   ```
-  git clone https://github.com/kimushun1101/platex-vscode-template.git
-  code platex-vscode-template
+  git clone [[https://github.com/sige0002/vscode_tex.git]
   ```
 
 2. [Docker の場合](#docker)は，Docker を起動した後にウィンドウ左下の`><` をクリックして`Reopen in container` を選択．  
