@@ -69,4 +69,6 @@
         "underfull",
         "Zotero"
     ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "latex-workshop.latex.autoBuild.run": "never"
 }
