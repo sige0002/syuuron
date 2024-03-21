@@ -1,4 +1,4 @@
-# platex-vscode-template
+# iwaselab_tex-vscode-template
 **[開発環境構築](#開発環境構築)の方法も記述しています．**  
 Visual Studio Code (VS Code) で日本語論文をLaTeX で書くときのテンプレート．
 pLaTeX でのビルドを行う．
