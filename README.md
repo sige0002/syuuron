@@ -116,7 +116,7 @@ Git tag をつけて push すると，その commit でのコンパイル結果�
 
 ## 参考
 - [LaTeX Workshop を使いこなす](https://qiita.com/Yarakashi_Kikohshi/items/a9357dd469320ffb65a0)
-- Dockerイメージはこちらを使用させていただきました．https://github.com/tbistr/texlive-full-devcontainer
+- Dockerイメージはここ．https://github.com/tbistr/texlive-full-devcontainer
 
 ## ライセンス
 The MIT License
