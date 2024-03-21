@@ -72,9 +72,10 @@ Git が使用できる場合には以下のコマンドで，このリポジト�
     - [テキスト校正くん](https://marketplace.visualstudio.com/items?itemName=ICS.japanese-proofreading)
     - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
     - [Tasks Shell Input](https://marketplace.visualstudio.com/items?itemName=augustocdias.tasks-shell-input)
-3. `sample.tex` を開いた状態で，`Ctrl` + `Alt` + `B` でビルド．
-4. ビルドの完了後に `Ctrl` + `Alt` + `V` で生成したPDF を確認．
-5. 論文を提出する学会などが配布しているTeX ファイルやそのスタイルファイルをこのディレクトリにコピーアンドペーストして，手順3，4 と同様の方法でビルド，確認．
+3. `setting.json` をvscodeのsetting.jsonにコピー．（自身の環境が既にある場合には既存環境を壊さないように調整してください）
+4. `sample.tex` を開いた状態で，`Ctrl` + `Alt` + `B` でビルド．
+5. ビルドの完了後に `Ctrl` + `Alt` + `V` で生成したPDF を確認．
+6. 論文を提出する学会などが配布しているTeX ファイルやそのスタイルファイルをこのディレクトリにコピーアンドペーストして，手順3，4 と同様の方法でビルド，確認．
 
 ## GitHubによるバージョン管理
 [動作確認](#動作確認)したディレクトリでそのまま作業を進めても良いが，以下の手順で，ご自身のGitHub にリポジトリを作成してバージョン管理することをオススメします．
