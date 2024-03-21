@@ -1,4 +1,4 @@
-\documentclass[twocolumn]{jarticle}
+\documentclass[a4j,10pt,onecolumn,oneside,titlepage,final]{jarticle}
 % 図をFig. に変えておく
 \renewcommand{\figurename}{Fig.}
 
@@ -35,6 +35,16 @@
 \newtheorem{proposition}[definition]{命題}
 \newtheorem{remark}[definition]{注意}
 \renewcommand\proofname{\bf 証明}
+
+\setlength{\topmargin}{0pt}
+\iftombow{}
+\addtolength{\topmargin}{-1in}
+\else
+\addtolength{\topmargin}{-1truein}
+\fi
+\setlength{\textheight}{26cm}
+\setlength{\textwidth}{17cm}
+\setlength{\oddsidemargin}{-0.5cm}
 % % English
 % \newtheorem{definition}{Definition}
 % \newtheorem{theorem}[definition]{Theorem}
@@ -47,9 +57,21 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-\title{日本語 \LaTeX をVisual Studio Code で書く}
-\author{貞末 祐希}
-\maketitle
+\twocolumn[
+\begin{flushright}令和6年3月21日（木）\end{flushright}
+\begin{center}\LARGE\bf{ロボット班(ヘビ)}\end{center}
+\begin{center}\LARGE\bf{週報　第n回\\単モータ型ヘビ型ロボットの開発}
+\end{center}\large
+\vspace*{2mm}
+{\Large \begin{flushright}
+岩瀬 研究室~~~23FMR23 ~\\ 貞末　祐希\\
+%学番と名前を書いたら「学籍番号，氏名」は消してください
+指導教員　 岩瀬~将美　教授
+\end{flushright}}]
+
+%\inputで章ごとに作成も可能
+\input{summary_2023.tex}
+\newpage
 
 \section{使い方}
 論文を提出する学会などが配布しているTeX ファイルやそのスタイルファイルをこのディレクトリにコピペして，同様にビルドしてください．
@@ -57,6 +79,8 @@
 
 コピペ用のサンプルとしていくつか書き方をメモしておく．
 追加して欲しい記述がありましたらお知らせください．
+
+
 
 \section{図の挿入，定義定理}
 \begin{figure}[tb] % 画像の位置はtop かbottom
