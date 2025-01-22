@@ -1,10 +1,19 @@
-\section{1章}
-chapterでファイルを小分けにできます．
-画像はこのように表示できます．
-\begin{figure}[tbp]
-  \centering
-  \includegraphics[width=7cm]{./fig/酒井_サボり.eps}
-  \vspace{-5pt}
-  \caption{サンプル画像}
-  \label{fig:sample}
-  \end{figure}
+\chapter{テンプレの使い方}
+これは，岩瀬研究室用のvscode対応卒論，修論テンプレです．
+vscodeでの使用を前提としています．
+出力はoutに格納されています．
+図はfig内に格納して参照してください．
+各自PCにはtexliveをインストールしてください．作成者は2021をインストールしています．2021は岩瀬研のBOXにディスクイメージがあるはずです．\\
+　vscodeを使用する場合は，まず，拡張機能のLaTeX Workshopをインストールしてください．（その他オススメ拡張機能は.vscode内のextensions.jsonに書いてあります．多分入れなくてもこのフォルダを開いていれば自動適用されるようにjsonファイルを書いているつもりです）\\
+　その後，画面左上のファイルからフォルダーを開くを選択してください．そして，この原稿が入っているフォルダを選択してください．（デフォルトだとsyuuronnになってるはず）\\
+参考文献はbibtex（reference）に対応しています\cite{1}
+chapter1.tex，chapter2には章を追加して書いてください．
+\section{注意}
+卒論，修論以外でvscodeを使いたい場合はフォルダにそれ用のstyファイルまたはclsファイルと原稿を書いたtexファイルを追加してください．\\
+本テンプレでは，chapter1.tex，chapter2.tex，abstract.tex，acknowledgment.tex，appendix.tex，reference.bib，jreport\_sadasue.clsがあることを前提としています．（デフォルトで入っているはずです）\\
+分からないことがあればhttps://github.com/sige0002を参照してください．
+もしくは貞末まで聞いてください．\\
+本テンプレはGitHubで管理しています．またDockerにも対応しています．（動作は未確認）
+
+
+

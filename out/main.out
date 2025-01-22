@@ -1,8 +1,9 @@
 %このファイルは日本語文字を含みます.
-\BOOKMARK [1][-]{section.1}{To Do List}{}% 1
-\BOOKMARK [1][-]{section.2}{前回の週報内容}{}% 2
-\BOOKMARK [1][-]{section.3}{今回の研究概要}{}% 3
-\BOOKMARK [1][-]{section.4}{今後の予定}{}% 4
-\BOOKMARK [1][-]{section.5}{備考（適宜タイトル変更もしくは追加）}{}% 5
-\BOOKMARK [1][-]{section.6}{テンプレの説明}{}% 6
-\BOOKMARK [1][-]{section.7}{1章}{}% 7
+\BOOKMARK [0][-]{chapter.1}{テンプレの使い方}{}% 1
+\BOOKMARK [1][-]{section.1.1}{注意}{chapter.1}% 2
+\BOOKMARK [0][-]{chapter.2}{書き方について}{}% 3
+\BOOKMARK [1][-]{section.2.1}{図の挿入}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.1.1}{項}{section.2.1}% 5
+\BOOKMARK [1][-]{section.2.2}{表の挿入}{chapter.2}% 6
+\BOOKMARK [0][-]{appendix.A}{付録}{}% 7
+\BOOKMARK [1][-]{section.A.1}{書き方について}{appendix.A}% 8

@@ -1,82 +1,90 @@
+﻿\documentclass[a4j,11pt,onecolumn,oneside,titlepage,final]{jreport_sadasue}
 
-\documentclass[a4j,10pt,onecolumn,oneside,titlepage,final]{jarticle}
-% 図をFig. に変えておく
-\renewcommand{\figurename}{Fig.}
+% 必要なパッケージ
+\usepackage[dvipdfmx]{graphicx} % 画像
+\usepackage[dvipdfmx]{hyperref} % リンク
+\usepackage{pxjahyper} % 日本語リンク対応
+\usepackage{amsfonts, amsmath, amssymb, bm} % 数学記号やフォント
+\usepackage{mathrsfs} % for \mathscr{}
+\usepackage{amsthm} % 定理環境
+\usepackage{here} % 画像の位置固定
+\usepackage{listings} % ソースコード
+\usepackage{xcolor} % ソースコードの色付け
+\usepackage[margin=30truemm]{geometry}% ページレイアウトの設定(A4用紙の設定)
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% 以下必要に応じて執筆先にコピペ
+% 必要な情報の定義
+\renewcommand{\nenndo}{6} % 年度
+\renewcommand{\thesis}{修士論文} % 論文種別
+\renewcommand{\belonging}{東京電機大学 大学院 未来科学研究科\\ロボット・メカトロニクス学専攻} % 所属
+%\renewcommand{\studentid}{23FMR28} % 学籍番号を変えたいときはここを変更
+%\renewcommand{\studentname}{貞末 祐希} % 学生氏名を変えたいときはここを変更
+\renewcommand{\advisorname}{岩瀬 将美} % 指導教員名
+\renewcommand{\advisor}{教授} % 指導教員役職
+\renewcommand{\coadvisorname}{佐藤 康之} % 副指導教員名（新規定義）
+\renewcommand{\coadvisor}{准教授} % 副指導教員役職（新規定義）
 
-% 画像
-\usepackage[dvipdfmx]{graphicx}
-% リンク
-\usepackage[dvipdfmx]{hyperref}
-% 目次
-\usepackage{pxjahyper}
-% フォント関連
-\usepackage{amsfonts}
-\usepackage{amsmath, amssymb}
-\usepackage{mathrsfs}	% for \mathscr{}
-\usepackage{bm}
-% 図や表の引用
-\newcommand{\figref}[1]{Fig.\,\ref{#1}}
-\newcommand{\Figref}[1]{Figure\,\ref{#1}}
-\newcommand{\figsref}[2]{Figs.\,\ref{#1} -- \ref{#2}}
-\newcommand{\Figsref}[2]{Figures\,\ref{#1} -- \ref{#2}}
-\newcommand{\tabref}[1]{Table\,\ref{#1}}
-% 数式記号
-\newcommand{\tp}{\mathsf{T}}	% tp: transpose
-\newcommand{\sgn}{\operatorname{sgn}}
-\newcommand{\argmin}{\mathop{\rm arg~min}\limits}
-% Theorem 関連
-% 日本語
-\usepackage{amsthm}
+\renewcommand{\figurename}{Fig.}%初期設定では図〇と表示されるのでFig.〇に変更
+\renewcommand{\tablename}{Table}%初期設定では表〇と表示されるのでTable〇に変更
+
+% 定理環境の設定
 \theoremstyle{definition}
-\newtheorem{definition}{定義}
-\newtheorem{theorem}[definition]{定理}
-\newtheorem{proposition}[definition]{命題}
-\newtheorem{remark}[definition]{注意}
+\newtheorem{definition}{定義}[chapter]
+\newtheorem{theorem}{定理}[chapter]
+\newtheorem{proposition}{命題}[chapter]
+\newtheorem{remark}{注意}[chapter]
 \renewcommand\proofname{\bf 証明}
 
-\setlength{\topmargin}{0pt}
-\iftombow{}
-\addtolength{\topmargin}{-1in}
-\else
-\addtolength{\topmargin}{-1truein}
-\fi
-\setlength{\textheight}{26cm}
-\setlength{\textwidth}{17cm}
-\setlength{\oddsidemargin}{-0.5cm}
-% % English
-% \newtheorem{definition}{Definition}
-% \newtheorem{theorem}[definition]{Theorem}
-% \newtheorem{lemma}[definition]{Lemma}
-% \newtheorem{corollary}[definition]{Corollary}
-% \newtheorem{proposition}[definition]{Proposition}
-% \newtheorem{remark}[definition]{Remark}
-% \newtheorem{example}[definition]{Example}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\lstset{% 付録に記載するソースコードのための設定
+    language=C, % 言語をCに設定
+    frame=single, % 四角で囲む
+    numbers=left, % 行番号を左側に表示
+    numberstyle=\tiny, % 行番号のスタイルを小さく
+    keywordstyle=\color{blue}, % キーワードを青色に
+    commentstyle=\color{green}, % コメントを緑色に
+    stringstyle=\color{red}, % 文字列を赤色に
+    basicstyle=\ttfamily, % フォントをタイプライタ風に
+    backgroundcolor=\color{gray!10}, % 背景を薄いグレーに
+    tabsize=4, % タブ幅
+    breaklines=true, % 長い行を折り返し
+    showstringspaces=false % 空白文字を非表示
+}
+
+% 本文
 \begin{document}
-\twocolumn[
-\begin{flushright}令和a年b月c日（金）\end{flushright}
-\begin{center}\LARGE\bf{班名}\end{center}
-\begin{center}\LARGE\bf{週報　第d回\\週報タイトル \\ ここにタイトル}
-\end{center}\large
-\vspace*{2mm}
-{\Large \begin{flushright}
-岩瀬 研究室~~~学番 ~\\ 名前\\
-%学番と名前を書いたら「学籍番号，氏名」は消してください
-指導教員　 岩瀬~将美　教授
-\end{flushright}}]
 
-%\inputで章ごとに作成も可能
-\input{summary.tex}
-\newpage
-\input{intro.tex}
-\input{chapter1.tex}
+% タイトルページ
+\begin{titlepage}
+  \begin{center}
+      {\huge 令和~\nenndo~年度 }\\[10mm]
+      {\LARGE \thesis}\\[20mm]
+      {\LARGE ケーブル敷設に向けた単モータ駆動索状体ロボットの開発}\\[5mm]
+      {\LARGE Development of Single-Actuator-Wave-Robot for cable laying}\\[60mm]
+      {\LARGE \belonging}\\[10mm]
+      {\LARGE \studentid~\studentname}\\[20mm]
+      {\LARGE 指導教員~~\advisorname~~\advisor }
+      %{\LARGE 指導教員~~\advisorname~~\advisor \\ ~~~~~~~~~~~~~~~~~~\coadvisorname~~\coadvisor}%副指導教員がいる場合はこちらを使う
+  \end{center}
+\end{titlepage}
 
+\tableofcontents % 目次
+\listoffigures   % 図目次
+\listoftables    % 表目次
+
+\newpage%表目次と要旨を分けるために挿入
+
+\input{abstract.tex}%要旨
+\input{chapter1.tex}%序論
+\input{chapter2.tex}%2章
+
+\newpage%本文と参考文献を分けるために挿入
+
+\bibliography{reference}%参考文献 reference.bib
 \bibliographystyle{junsrt}
-\bibliography{reference} % reference.bib を読み込む
-% \nocite{*} % 引用がされていないものも表示する
+
+\input{acknowledgment.tex}%謝辞
+
+\input{appendix.tex}%付録
+
 \end{document}

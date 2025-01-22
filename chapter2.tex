@@ -1,0 +1,41 @@
+\chapter{書き方について}
+chapterでファイルを小分けにできます．
+
+\section{図の挿入}
+画像の表示も可能です．
+\figref{fig:sample}はサンプル画像です．
+他の参照として，\Figref{fig:sample}，\figsref{fig:sample}{fig:sample}，\Figsref{fig:sample}{fig:sample}もあります．
+figsref，Figsrefは複数の図を参照する際に使用します．
+コマンドの書き方はchapter2.texを参照してください．
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=7cm]{fig/酒井_サボり.eps}
+  \vspace{-5pt}
+  \caption{Sample Image}
+  \label{fig:sample}
+  \end{figure}
+
+\subsection{項}
+項はsubsectuionで作成できます．
+
+\newpage
+
+\section{表の挿入}
+表の表示も可能です．
+\tabref{tab:sample}はサンプル表です．
+他の参照として，\tabsref{tab:sample}{tab:sample}もあります．
+tabsrefは複数の表を参照する際に使用します．
+コマンドの書き方はchapter2.texを参照してください．
+
+\begin{table}[htbp]
+  \begin{center}
+   \caption{Sample Table}
+   \label{tab:sample}
+   \begin{tabular}{l|c} \hline\hline % 2列のセンタリングされたテキストと罫線
+    Parameter [Unit]&Variable \\ \hline % Header row
+    Amplitude [deg] &$A$\\
+    Phase [rad]&$P$\\
+    Angular Frequency [Hz]& $F$\\\hline
+   \end{tabular}
+  \end{center}
+ \end{table}

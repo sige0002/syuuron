@@ -1,0 +1,3634 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2023.2.13)  22 JAN 2025 15:13
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/yu092/Desktop/syuuronn/main.tex
+(c:/Users/yu092/Desktop/syuuronn/main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (c:/Users/yu092/Desktop/syuuronn/jreport_sadasue.cls
+
+c:/Users/yu092/Desktop/syuuronn/jreport_sadasue.cls:16: LaTeX Error: This file needs format `pLaTeX2e'
+               but this is `LaTeX2e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \NeedsTeXFormat{pLaTeX2e}
+                              
+The current input file will not be processed further,
+because it was written for some other flavor of TeX.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2021/03/18 v5.0j Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen138
+\Gin@req@width=\dimen139
+) (c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+ (c:/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (c:/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (c:/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (c:/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (c:/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen140
+\Hy@linkcounter=\count179
+\Hy@pagecounter=\count180
+ (c:/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+) (c:/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count181
+ (c:/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `final' set `true' on input line 4073.
+
+
+c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty:4073: Package hyperref Error: Wrong DVI mode driver option `dvipdfmx',
+(hyperref)                because pdfTeX or LuaTeX is running in PDF mode.
+
+See the hyperref package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4073 \ProcessKeyvalOptions{Hyp}
+                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count182
+(c:/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen141
+ (c:/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (c:/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count183
+\Field@Width=\dimen142
+\Fld@charsize=\dimen143
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (c:/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+
+Package hyperref Warning: Option `pdfpagelabels' is turned off
+(hyperref)                because \thepage is undefined.
+
+\c@Item=\count184
+\c@Hfootnote=\count185
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (c:/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+\Fld@listcount=\count186
+\c@bookmark@seq@number=\count187
+ (c:/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (c:/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+) (c:/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip47
+) (c:/texlive/2021/texmf-dist/tex/platex/pxjahyper/pxjahyper.sty
+
+c:/texlive/2021/texmf-dist/tex/platex/pxjahyper/pxjahyper.sty:12: LaTeX Error: This file needs format `pLaTeX2e'
+               but this is `LaTeX2e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \NeedsTeXFormat{pLaTeX2e}
+                              
+The current input file will not be processed further,
+because it was written for some other flavor of TeX.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen144
+)) (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+) (c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip17
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks18
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks19
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks20
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (c:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+) (c:/texlive/2021/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup9
+) (c:/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip51
+\thm@postskip=\skip52
+\thm@headsep=\skip53
+\dth@everypar=\toks27
+) (c:/texlive/2021/texmf-dist/tex/latex/here/here.sty) (c:/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks28
+\float@box=\box49
+\@float@everytoks=\toks29
+\@floatcapt=\box50
+) (c:/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count267
+\lst@gtempboxa=\box51
+\lst@token=\toks30
+\lst@length=\count268
+\lst@currlwidth=\dimen153
+\lst@column=\count269
+\lst@pos=\count270
+\lst@lostspace=\dimen154
+\lst@width=\dimen155
+\lst@newlines=\count271
+\lst@lineno=\count272
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\lst@maxwidth=\dimen156
+ (c:/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count273
+\lst@skipnumbers=\count274
+\lst@framebox=\box52
+) (c:/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks31
+
+
+c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty:1006: Package geometry Error: \paperwidth (0.0pt) too short.
+
+See the geometry package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1006 \Gm@process
+                  
+Set a paper type (e.g., `a4paper').
+
+
+c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty:1006: Package geometry Error: \paperheight (0.0pt) too short.
+
+See the geometry package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1006 \Gm@process
+                  
+Set a paper type (e.g., `a4paper').
+
+
+Package geometry Warning: `width' results in NEGATIVE (-170.71652pt).
+    `lmargin' or `rmargin' should be shortened in length.
+
+
+Package geometry Warning: `height' results in NEGATIVE (-170.71652pt).
+    `tmargin' or `bmargin' should be shortened in length.
+
+)
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:16: LaTeX Error: Command \nenndo undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \renewcommand{\nenndo}
+                           {6} % 年度
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:17: LaTeX Error: Command \thesis undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \renewcommand{\thesis}
+                           {修士論文} % 論文種別
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:18: LaTeX Error: Command \belonging undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \renewcommand{\belonging}
+                              {東京電機大学 大学院 未来科学研�...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:21: LaTeX Error: Command \advisorname undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \renewcommand{\advisorname}
+                                {岩瀬 将美} % 指導教員名
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:22: LaTeX Error: Command \advisor undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \renewcommand{\advisor}
+                            {教授} % 指導教員役職
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:23: LaTeX Error: Command \coadvisorname undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \renewcommand{\coadvisorname}
+                                  {佐藤 康之} % 副指導教員名（新...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:24: LaTeX Error: Command \coadvisor undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \renewcommand{\coadvisor}
+                              {准教授} % 副指導教員役職（新規�...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:26: LaTeX Error: Command \figurename undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \renewcommand{\figurename}
+                               {Fig.}%初期設定では図〇と表示さ�...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:27: LaTeX Error: Command \tablename undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \renewcommand{\tablename}
+                              {Table}%初期設定では表〇と表示さ�...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\c@definition=\count278
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:31: LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \newtheorem{definition}{定義}[chapter]
+                                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\c@theorem=\count279
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:32: LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \newtheorem{theorem}{定理}[chapter]
+                                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\c@proposition=\count280
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:33: LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \newtheorem{proposition}{命題}[chapter]
+                                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\c@remark=\count281
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:34: LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \newtheorem{remark}{注意}[chapter]
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(c:/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (c:/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+) (c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box53
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:55: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \begin{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
+(hyperref)                using 11in.
+
+Package hyperref Info: Link coloring OFF on input line 55.
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (c:/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count283
+)
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+\c@lstlisting=\count284
+ (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count285
+\scratchdimen=\dimen165
+\scratchbox=\box54
+\nofMPsegments=\count286
+\nofMParguments=\count287
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count288
+\MPscratchDim=\dimen166
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
+\everyMPtoPDFconversion=\toks33
+) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, -170.71652pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, -170.71652pt, 85.35826pt)
+* \paperwidth=0.0pt
+* \paperheight=0.0pt
+* \textwidth=-170.71652pt
+* \textheight=-170.71652pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=13.08827pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=0.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:58: LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 \begin{titlepage}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:60: Undefined control sequence.
+l.60       {\huge
+                  令和~\nenndo~年度 }\\[10mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:60: Package inputenc Error: Unicode character 令 (U+4EE4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60       {\huge 令
+                     和~\nenndo~年度 }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:60: Package inputenc Error: Unicode character 和 (U+548C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60       {\huge 令和
+                        ~\nenndo~年度 }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:60: Package inputenc Error: Unicode character 年 (U+5E74)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60       {\huge 令和~\nenndo~年
+                                    度 }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:60: Package inputenc Error: Unicode character 度 (U+5EA6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60       {\huge 令和~\nenndo~年度
+                                        }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (170.71652pt too wide) in paragraph at lines 60--60
+ [] 
+ []
+
+
+Overfull \hbox (175.71654pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/m/n/10 6 
+ []
+
+
+Overfull \vbox (170.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:60: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60       {\huge 令和~\nenndo~年度 }\\
+                                           [10mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:60: Undefined control sequence.
+<argument> \thepage 
+                    
+l.60       {\huge 令和~\nenndo~年度 }\\
+                                           [10mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:60: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60       {\huge 令和~\nenndo~年度 }\\
+                                           [10mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:60: Undefined control sequence.
+<argument> \thepage 
+                    
+l.60       {\huge 令和~\nenndo~年度 }\\
+                                           [10mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.60       {\huge 令和~\nenndo~年度 }\\
+                                           [10mm] [2]
+c:/Users/yu092/Desktop/syuuronn/main.tex:61: Undefined control sequence.
+l.61       {\LARGE
+                   \thesis}\\[20mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:61: Package inputenc Error: Unicode character 修 (U+4FEE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61       {\LARGE \thesis
+                          }\\[20mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:61: Package inputenc Error: Unicode character 士 (U+58EB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61       {\LARGE \thesis
+                          }\\[20mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:61: Package inputenc Error: Unicode character 論 (U+8AD6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61       {\LARGE \thesis
+                          }\\[20mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:61: Package inputenc Error: Unicode character 文 (U+6587)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61       {\LARGE \thesis
+                          }\\[20mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:61: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61       {\LARGE \thesis}\\
+                             [20mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:61: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61       {\LARGE \thesis}\\
+                             [20mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:61: Undefined control sequence.
+<argument> \thepage 
+                    
+l.61       {\LARGE \thesis}\\
+                             [20mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.61       {\LARGE \thesis}\\
+                             [20mm] [3{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Undefined control sequence.
+l.62       {\LARGE
+                   ケーブル敷設に向けた単モータ駆動索状体...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character ケ (U+30B1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケ
+                      ーブル敷設に向けた単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケー
+                         ブル敷設に向けた単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character ブ (U+30D6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケーブ
+                            ル敷設に向けた単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character ル (U+30EB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケーブル
+                               敷設に向けた単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 敷 (U+6577)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケーブル敷
+                                  設に向けた単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 設 (U+8A2D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケーブル敷設
+                                     に向けた単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケーブル敷設に
+                                        向けた単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 向 (U+5411)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケーブル敷設に向
+                                           けた単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character け (U+3051)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケーブル敷設に向け
+                                              た単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character た (U+305F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62       {\LARGE ケーブル敷設に向けた
+                                                 単モータ駆動索状体...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 単 (U+5358)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ... {\LARGE ケーブル敷設に向けた単
+                                                  モータ駆動索状体�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character モ (U+30E2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...LARGE ケーブル敷設に向けた単モ
+                                                  ータ駆動索状体ロ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...GE ケーブル敷設に向けた単モー
+                                                  タ駆動索状体ロボ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character タ (U+30BF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...ケーブル敷設に向けた単モータ
+                                                  駆動索状体ロボッ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 駆 (U+99C6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...ーブル敷設に向けた単モータ駆
+                                                  動索状体ロボット�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 動 (U+52D5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...ブル敷設に向けた単モータ駆動
+                                                  索状体ロボットの�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 索 (U+7D22)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...ル敷設に向けた単モータ駆動索
+                                                  状体ロボットの開�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 状 (U+72B6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...敷設に向けた単モータ駆動索状
+                                                  体ロボットの開発}\...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 体 (U+4F53)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...設に向けた単モータ駆動索状体
+                                                  ロボットの開発}\\[5mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character ロ (U+30ED)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...に向けた単モータ駆動索状体ロ
+                                                  ボットの開発}\\[5mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character ボ (U+30DC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...向けた単モータ駆動索状体ロボ
+                                                  ットの開発}\\[5mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character ッ (U+30C3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...けた単モータ駆動索状体ロボッ
+                                                  トの開発}\\[5mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character ト (U+30C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...た単モータ駆動索状体ロボット
+                                                  の開発}\\[5mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...単モータ駆動索状体ロボットの
+                                                  開発}\\[5mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 開 (U+958B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...モータ駆動索状体ロボットの開
+                                                  発}\\[5mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: Package inputenc Error: Unicode character 発 (U+767A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...ータ駆動索状体ロボットの開発
+                                                  }\\[5mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:62: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...タ駆動索状体ロボットの開発}\\
+                                                  [5mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+l.63       {\LARGE
+                   Development of Single-Actuator-Wave-Robot for cable layin...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (227.52219pt too wide) in paragraph at lines 63--63
+ []\OT1/cmr/m/n/10 Development 
+ []
+
+
+Overfull \hbox (178.77211pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 of 
+ []
+
+
+Overfull \hbox (200.16103pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 Single- 
+ []
+
+
+Overfull \hbox (213.24438pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 Actuator- 
+ []
+
+
+Overfull \hbox (197.661pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 Wave- 
+ []
+
+
+Overfull \hbox (197.79993pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 Robot 
+ []
+
+
+Overfull \hbox (182.68878pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 for 
+ []
+
+
+Overfull \hbox (183.49431pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 ca- 
+ []
+
+
+Overfull \hbox (183.49432pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 ble 
+ []
+
+
+Overfull \hbox (186.82767pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 lay- 
+ []
+
+
+Overfull \hbox (184.0499pt too wide) in paragraph at lines 63--63
+ \OT1/cmr/m/n/10 ing 
+ []
+
+
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [4]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [5]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [6]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [7]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [8]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [9]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [10]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [11]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [12]
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:63: Undefined control sequence.
+<argument> \thepage 
+                    
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.63 ...le-Actuator-Wave-Robot for cable laying}\\
+                                                  [60mm] [13]
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Undefined control sequence.
+l.64       {\LARGE
+                   \belonging}\\[10mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 東 (U+6771)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 京 (U+4EAC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 電 (U+96FB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 機 (U+6A5F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 大 (U+5927)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 学 (U+5B66)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 大 (U+5927)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 学 (U+5B66)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 院 (U+9662)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 未 (U+672A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 来 (U+6765)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 科 (U+79D1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 学 (U+5B66)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 研 (U+7814)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 究 (U+7A76)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 科 (U+79D1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Undefined control sequence.
+<argument> \thepage 
+                    
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64       {\LARGE \belonging
+                             }\\[10mm] [14]
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ロ (U+30ED)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ボ (U+30DC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ッ (U+30C3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ト (U+30C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ・ (U+30FB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character メ (U+30E1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character カ (U+30AB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ト (U+30C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ロ (U+30ED)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ニ (U+30CB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ク (U+30AF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character ス (U+30B9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 学 (U+5B66)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 専 (U+5C02)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: Package inputenc Error: Unicode character 攻 (U+653B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging
+                             }\\[10mm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:64: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64       {\LARGE \belonging}\\
+                                [10mm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:65: Undefined control sequence.
+l.65       {\LARGE
+                   \studentid~\studentname}\\[20mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:65: Undefined control sequence.
+l.65       {\LARGE \studentid
+                             ~\studentname}\\[20mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:65: Undefined control sequence.
+l.65       {\LARGE \studentid~\studentname
+                                          }\\[20mm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (170.71652pt too wide) in paragraph at lines 65--65
+ [] 
+ []
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Undefined control sequence.
+l.66       {\LARGE
+                   指導教員~~\advisorname~~\advisor }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 指 (U+6307)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       {\LARGE 指
+                      導教員~~\advisorname~~\advisor }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 導 (U+5C0E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       {\LARGE 指導
+                         教員~~\advisorname~~\advisor }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 教 (U+6559)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       {\LARGE 指導教
+                            員~~\advisorname~~\advisor }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 員 (U+54E1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       {\LARGE 指導教員
+                               ~~\advisorname~~\advisor }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       {\LARGE 指導教員~
+                                ~\advisorname~~\advisor }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Undefined control sequence.
+<argument> \thepage 
+                    
+l.66       {\LARGE 指導教員~
+                                ~\advisorname~~\advisor }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66       {\LARGE 指導教員~
+                                ~\advisorname~~\advisor } [15]
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 岩 (U+5CA9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       {\LARGE 指導教員~~\advisorname
+                                             ~~\advisor }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 瀬 (U+702C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       {\LARGE 指導教員~~\advisorname
+                                             ~~\advisor }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 将 (U+5C06)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       {\LARGE 指導教員~~\advisorname
+                                             ~~\advisor }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 美 (U+7F8E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       {\LARGE 指導教員~~\advisorname
+                                             ~~\advisor }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 教 (U+6559)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...LARGE 指導教員~~\advisorname~~\advisor
+                                                   }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:66: Package inputenc Error: Unicode character 授 (U+6388)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...LARGE 指導教員~~\advisorname~~\advisor
+                                                   }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (179.60538pt too wide) in paragraph at lines 66--68
+ []     
+ []
+
+
+Overfull \vbox (180.71652pt too high) has occurred while \output is active []
+
+
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:68: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68   \end{center}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:68: Undefined control sequence.
+<argument> \thepage 
+                    
+l.68   \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.68   \end{center}
+                    [16]
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:69: LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:71: Undefined control sequence.
+l.71 \tableofcontents
+                      % 目次
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:72: Undefined control sequence.
+l.72 \listoffigures
+                      % 図目次
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/yu092/Desktop/syuuronn/main.tex:73: Undefined control sequence.
+l.73 \listoftables
+                      % 表目次
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(c:/Users/yu092/Desktop/syuuronn/abstract.tex
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:1: Undefined control sequence.
+l.1 \abstractcontent
+                    {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character こ (U+3053)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	こ
+        こには、論文の概要を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character こ (U+3053)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここ
+           には、論文の概要を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここに
+              は、論文の概要を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには
+                 、論文の概要を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、
+                    論文の概要を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character 論 (U+8AD6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論
+                       文の概要を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character 文 (U+6587)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論文
+                          の概要を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論文の
+                             概要を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character 概 (U+6982)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論文の概
+                                要を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character 要 (U+8981)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論文の概要
+                                   を記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論文の概要を
+                                      記述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character 記 (U+8A18)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論文の概要を記
+                                         述してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character 述 (U+8FF0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論文の概要を記述
+                                            してください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論文の概要を記述し
+                                               てください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character て (U+3066)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	ここには、論文の概要を記述して
+                                                  ください。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character く (U+304F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�には、論文の概要を記述してく
+                                                  ださい。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character だ (U+3060)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�は、論文の概要を記述してくだ
+                                                  さい。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character さ (U+3055)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�、論文の概要を記述してくださ
+                                                  い。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character い (U+3044)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�論文の概要を記述してください
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/abstract.tex:2: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�文の概要を記述してください。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+) (c:/Users/yu092/Desktop/syuuronn/chapter1.tex
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:1: Undefined control sequence.
+l.1 \chapter
+            {テンプレの使い方}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:1: Package inputenc Error: Unicode character テ (U+30C6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{テ
+                ンプレの使い方}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:1: Package inputenc Error: Unicode character ン (U+30F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{テン
+                   プレの使い方}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:1: Package inputenc Error: Unicode character プ (U+30D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{テンプ
+                      レの使い方}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:1: Package inputenc Error: Unicode character レ (U+30EC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{テンプレ
+                         の使い方}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:1: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{テンプレの
+                            使い方}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:1: Package inputenc Error: Unicode character 使 (U+4F7F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{テンプレの使
+                               い方}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:1: Package inputenc Error: Unicode character い (U+3044)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{テンプレの使い
+                                  方}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:1: Package inputenc Error: Unicode character 方 (U+65B9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{テンプレの使い方
+                                     }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character こ (U+3053)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 こ
+       れは，岩瀬研究室用のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character れ (U+308C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これ
+          は，岩瀬研究室用のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは
+             ，岩瀬研究室用のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，
+                岩瀬研究室用のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 岩 (U+5CA9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，岩
+                   瀬研究室用のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 瀬 (U+702C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，岩瀬
+                      研究室用のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 研 (U+7814)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，岩瀬研
+                         究室用のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 究 (U+7A76)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，岩瀬研究
+                            室用のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 室 (U+5BA4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，岩瀬研究室
+                               用のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 用 (U+7528)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，岩瀬研究室用
+                                  のvscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，岩瀬研究室用の
+                                     vscode対応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 対 (U+5BFE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，岩瀬研究室用のvscode対
+                                              応卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 応 (U+5FDC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 これは，岩瀬研究室用のvscode対応
+                                                 卒論，修論テンプレ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 卒 (U+5352)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�は，岩瀬研究室用のvscode対応卒
+                                                  論，修論テンプレ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 論 (U+8AD6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�，岩瀬研究室用のvscode対応卒論
+                                                  ，修論テンプレで�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�岩瀬研究室用のvscode対応卒論，
+                                                  修論テンプレです．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 修 (U+4FEE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�瀬研究室用のvscode対応卒論，修
+                                                  論テンプレです．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character 論 (U+8AD6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�研究室用のvscode対応卒論，修論
+                                                  テンプレです．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character テ (U+30C6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�究室用のvscode対応卒論，修論テ
+                                                  ンプレです．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character ン (U+30F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�室用のvscode対応卒論，修論テン
+                                                  プレです．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character プ (U+30D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�用のvscode対応卒論，修論テンプ
+                                                  レです．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character レ (U+30EC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�のvscode対応卒論，修論テンプレ
+                                                  です．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character で (U+3067)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...�vscode対応卒論，修論テンプレで
+                                                  す．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character す (U+3059)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...code対応卒論，修論テンプレです
+                                                  ．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:2: Package inputenc Error: Unicode character ． (U+FF0E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...e対応卒論，修論テンプレです．
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character で (U+3067)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeで
+             の使用を前提としています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの
+                使用を前提としています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character 使 (U+4F7F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使
+                   用を前提としています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character 用 (U+7528)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用
+                      を前提としています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用を
+                         前提としています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character 前 (U+524D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用を前
+                            提としています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character 提 (U+63D0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用を前提
+                               としています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character と (U+3068)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用を前提と
+                                  しています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用を前提とし
+                                     ています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character て (U+3066)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用を前提として
+                                        います．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character い (U+3044)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用を前提としてい
+                                           ます．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character ま (U+307E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用を前提としていま
+                                              す．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character す (U+3059)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 vscodeでの使用を前提としています
+                                                 ．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:3: Package inputenc Error: Unicode character ． (U+FF0E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...eでの使用を前提としています．
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character 出 (U+51FA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出
+       力はoutに格納されています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character 力 (U+529B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力
+          はoutに格納されています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力は
+             outに格納されています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに
+                   格納されています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character 格 (U+683C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに格
+                      納されています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character 納 (U+7D0D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに格納
+                         されています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character さ (U+3055)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに格納さ
+                            れています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character れ (U+308C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに格納され
+                               ています．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character て (U+3066)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに格納されて
+                                  います．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character い (U+3044)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに格納されてい
+                                     ます．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character ま (U+307E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに格納されていま
+                                        す．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character す (U+3059)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに格納されています
+                                           ．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:4: Package inputenc Error: Unicode character ． (U+FF0E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 出力はoutに格納されています．
+                                              
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character 図 (U+56F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図
+       はfig内に格納して参照してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図は
+          fig内に格納して参照してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character 内 (U+5185)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内
+                に格納して参照してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内に
+                   格納して参照してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character 格 (U+683C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内に格
+                      納して参照してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character 納 (U+7D0D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内に格納
+                         して参照してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内に格納し
+                            て参照してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character て (U+3066)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内に格納して
+                               参照してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character 参 (U+53C2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内に格納して参
+                                  照してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character 照 (U+7167)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内に格納して参照
+                                     してください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内に格納して参照し
+                                        てください．
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5: Package inputenc Error: Unicode character て (U+3066)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 図はfig内に格納して参照して
+                                           ください．
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 11282 strings out of 478994
+ 160723 string characters out of 5862207
+ 648099 words of memory out of 5000000
+ 28629 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,6n,77p,274b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+c:/Users/yu092/Desktop/syuuronn/chapter1.tex:5:  ==> Fatal error occurred, no output PDF file produced!
